@@ -1,0 +1,16 @@
+D:\CSharpLearning\snick\snick\bin\Debug\snick.exe.config
+D:\CSharpLearning\snick\snick\bin\Debug\snick.exe
+D:\CSharpLearning\snick\snick\bin\Debug\snick.pdb
+D:\CSharpLearning\snick\snick\obj\Debug\snick.csproj.AssemblyReference.cache
+D:\CSharpLearning\snick\snick\obj\Debug\snick.csproj.SuggestedBindingRedirects.cache
+D:\CSharpLearning\snick\snick\obj\Debug\MainWindow.g.cs
+D:\CSharpLearning\snick\snick\obj\Debug\App.g.cs
+D:\CSharpLearning\snick\snick\obj\Debug\snick_MarkupCompile.cache
+D:\CSharpLearning\snick\snick\obj\Debug\snick_MarkupCompile.lref
+D:\CSharpLearning\snick\snick\obj\Debug\MainWindow.baml
+D:\CSharpLearning\snick\snick\obj\Debug\snick.g.resources
+D:\CSharpLearning\snick\snick\obj\Debug\snick.Properties.Resources.resources
+D:\CSharpLearning\snick\snick\obj\Debug\snick.csproj.GenerateResource.cache
+D:\CSharpLearning\snick\snick\obj\Debug\snick.csproj.CoreCompileInputs.cache
+D:\CSharpLearning\snick\snick\obj\Debug\snick.exe
+D:\CSharpLearning\snick\snick\obj\Debug\snick.pdb
